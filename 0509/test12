@@ -1,0 +1,4 @@
+var=`./shtest1`
+echo $?
+echo "$var"
+
